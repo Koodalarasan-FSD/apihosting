@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Notebook A",
+        "tag":"Rough Notes For Little Kids to write and crush.",
+        "description": "It contains 92 Pages. \nIt has size of 14cm x 21cm cms. \nIt has strongly binded with threads. \nWe have both Ruled and Unruled Notebooks",
+        "image_path": "http://127.0.0.1:5000/static/boy_enjoys_school.jpg",
+        
+    },
+    {
+        "name": "Notebook B",
+        "tag":"Spiral Binded NoteBooks.",
+        "description": "It contains 142 Pages. \nIt has size of 17cm x27 cm. \nIt has strongly spiral binded. \nWe have both Ruled and Unruled Notebooks",
+        "image_path": "http://127.0.0.1:5000/static/Spiral_NoteBook.jpg",
+    },
+    {
+        "name": "Notebook C",
+        "tag":"Long_Size NoteBooks for Intelligent Students.",
+        "description": "It contains 120 Pages. \nIt has size of 31.4 CM X 19.4 CM. \nIt has strongly binded with threads. \nWe have both Ruled and Unruled Notebooks",
+        "image_path": "http://127.0.0.1:5000/static/Long_Size NoteBook.jpg",
+    },
+]
